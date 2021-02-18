@@ -3,6 +3,8 @@ workflow
 
 setup do Gulp:
 
+=> com o template baixado, digite yarn no terminal, ele vai baixar todos os arquivos necessarios.
+
 digitar => gulp <= no terminal para startar o script.
 
 utilizar css pela pasta scss dentro da pasta css.. todo o scss dentro dela serão adaptados com prefixos de compatibilidade e compilados para ocupar menor memoria.
